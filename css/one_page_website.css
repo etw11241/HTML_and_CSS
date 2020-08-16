@@ -1,0 +1,10 @@
+.menu, 
+.container   {
+    color: #B8860B;
+    font-size: 15px;
+    font-family: "Times New Roman", Georgia, Serif;
+    width: 600;
+    margin: 0% auto;
+    border: 1px solid #9D9FA2;
+    border-radius: 6px;
+}
